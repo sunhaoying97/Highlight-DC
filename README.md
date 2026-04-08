@@ -5,4 +5,4 @@ We use [LlamaFactory](https://github.com/hiyouga/LlamaFactory) to fine-tune on o
 
 Our dataset link (annotations json): [Highlight-DC](https://huggingface.co/datasets/Alocus2/Highlight-DC)
 
-The video size is approximately 233GB, and to respect copyright, please request it by sending an email to sunhaoying97@163.com.
+The video file is too large, about 233GB. To respect copyright, please request it by sending an email to sunhaoying97@163.com.
